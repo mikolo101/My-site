@@ -1,0 +1,70 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: "merriweather" serif;
+}
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'sacramento' cursive;
+}
+hr{
+    border: dotted #eaf6ed 6px;
+    box-shadow: none;
+    width: 3%;
+}
+.top-container {
+    background-color: aquamarine;
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    font-family: 'merriweather' cursive;
+}
+.middle-contrainer {
+    background-color: blue;
+    margin: auto 0 auto 0;
+}
+.bottom-container {
+    background-color: black;
+    margin: auto 0 auto 0;
+}
+.mike-p {
+    border-radius: 150px;
+    height: 150px;
+}
+p {
+    line-height: 2;
+    font-size: 1rem;
+}
+#p-one {
+    font-size: 2rem;
+}
+.p-2 {
+    font-size: 2rem;
+}
+#cld-one {
+    margin-top: 2rem;
+    position: absolute;
+    margin-left: 20rem;
+}
+#cld-two {
+    margin-top: 5rem;
+    margin-left: 50rem;
+}
+.ch-pp {
+    border-radius: 150px;
+    height: 150px;
+}
+.fb {
+    margin-left: 1rem;
+    color: blanchedalmond;
+}
+.tw {
+    margin-left: 1rem;
+    color: blanchedalmond;
+}
+.ml {
+    margin-left: 1rem;
+    color: blanchedalmond;
+}
